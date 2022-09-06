@@ -178,12 +178,12 @@
     min-height: 92vh;
   }
   #h1 {
-    font-size: 45px;
+    font-size: 47px;
     height: 170px;
   }
 
   #h4{
-    font-size: 20px;
+    font-size: 30px;
     height: 150px;
   }
 
@@ -217,8 +217,7 @@
   height: 60px;
 }
 
-
-.text1{
+  .text1{
   font-size: 40px;
   padding-top: 50px;
 }
